@@ -1,5 +1,2 @@
-# MCSLTeam-Website-Theme-Redefine
-
-Fork of [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine).
-
-For our team, we added `product` `self-intro` view and background from image bed.
+# OFS-Team-Theme-Redefine
+本仓库为 [MCSLTeam-website-theme-redefine]([https://github.com/EvanNotFound/hexo-theme-redefine](https://github.com/MCSLTeam/MCSLTeam-Website-Theme-Redefine))的Fork
